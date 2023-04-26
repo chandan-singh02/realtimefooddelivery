@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Burger",
+  "image": "burger.png",
+  "price": "80",
+  "size": "10% OFF"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Pizza",
+  "image": "pizza.png",
+  "price": "300",
+  "size": "5% OFF"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Coca cola",
+  "image": "drink.png",
+  "price": "45",
+  "size": "15% OFF"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Egg curry",
+  "image": "eggcurry.png",
+  "price": "450",
+  "size": "25% OFF"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Fried rice",
+  "image": "friedrice.png",
+  "price": "60",
+  "size": "15% OFF"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Fried chicken",
+  "image": "friedchicken.png",
+  "price": "300",
+  "size": "5% OFF"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "Sandwich",
+  "image": "sandwich.png",
+  "price": "100",
+  "size": "8% OFF"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "Spicy chicken",
+  "image": "spicychiken.png",
+  "price": "499",
+  "size": "20% OFF"
+}]
